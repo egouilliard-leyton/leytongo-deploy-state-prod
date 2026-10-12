@@ -1,0 +1,9 @@
+{
+  "sha": "cfe957f87763e8f56ce88c7d9cd0c538fae93afc",
+  "digests": {
+    "front": "sha256:c69dfcf3960f5849ba3065ec23da039cf97bafb0ddb43c076929a43cc24b5ac7",
+    "back": "sha256:5370de0679c28bad72f3bb1e68f94f12379d8a6dc46c0e576739eadb6a72b755"
+  },
+  "deployed_at": "2026-10-12T10:27:56Z",
+  "by": "cutover"
+}
