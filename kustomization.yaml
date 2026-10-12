@@ -1,7 +1,0 @@
-apiVersion: kustomize.config.k8s.io/v1alpha1
-kind: Component
-images:
-  - name: ghcr.io/egouilliard-leyton/mainloop-leytongo-back
-    digest: sha256:5370de0679c28bad72f3bb1e68f94f12379d8a6dc46c0e576739eadb6a72b755
-  - name: ghcr.io/egouilliard-leyton/mainloop-leytongo-front
-    digest: sha256:c69dfcf3960f5849ba3065ec23da039cf97bafb0ddb43c076929a43cc24b5ac7
