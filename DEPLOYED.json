@@ -1,9 +1,9 @@
 {
-  "sha": "cfe957f87763e8f56ce88c7d9cd0c538fae93afc",
+  "sha": "c8eb83f971e2fd993f5cfbb49e189ee622a5e28c",
   "digests": {
-    "back": "sha256:5370de0679c28bad72f3bb1e68f94f12379d8a6dc46c0e576739eadb6a72b755",
-    "front": "sha256:c69dfcf3960f5849ba3065ec23da039cf97bafb0ddb43c076929a43cc24b5ac7"
+    "back": "sha256:257ae824fdf66382b724cd54ea297154d1d9711c3d05ce3dcbfe5f0a40dbeefd",
+    "front": "sha256:220e5de9a2fbc6a18f3c049c541700dfb3806ebc1805a8d5b7df1c129951ba29"
   },
-  "deployed_at": "2026-10-12T17:02:28Z",
+  "deployed_at": "2026-10-28T17:09:23Z",
   "by": "manual"
 }
